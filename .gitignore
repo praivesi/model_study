@@ -253,8 +253,8 @@ pip-selfcheck.json
 
 # Custom - praivesi
 # 가상 환경 관련 파일 및 디렉토리 무시
-#model_study_venv/
-#*.pyc
-#*.pyo
-#__pycache__/
+model_study_venv/
+*.pyc
+*.pyo
+__pycache__/
 
